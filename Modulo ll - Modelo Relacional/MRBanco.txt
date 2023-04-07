@@ -1,0 +1,79 @@
+group: MRBANCO
+
+
+ Empleado = {
+nombre_empleado, calle, ciudad
+'Daniel', 'Sargento Cabral', 'San Luis'
+'Geronimo', 'San Martin', 'La Punta'
+'Lucas', 'Av Belgrano', 'San Luis'
+'Santiago', 'Av Illia', 'La Punta'
+'Nicolas', 'Ignacio Castellano', 'Villa Mercedes'
+'Facundo', '25 de Mayo', 'San Luis'
+'Hernesto', '2 de abril', 'Villas Mercedes'
+'Julio', 'Rawson', 'San Luis'
+'Luis', 'Gral Paz', 'Lujan'
+'Mateo', 'Artigas', 'Lujan'
+'Fabricio', 'Av Belgrano', 'San Luis'
+'Eugenia', 'Balcare', 'San Luis'
+'Julieta', 'Jose Quiroga', 'San Luis'
+'Celeste', 'La Merced', 'Lujan'
+'Daniela', 'Lafinur', 'San Luis'
+'Liliana', 'Bolivar', 'Lujan'
+'Alberto', 'La Rioja', 'Lujan'
+'Eduardo', 'Laprida', 'San Luis'
+'Ana', 'Las Heras', 'San Luis'
+'Pedro', 'Cabildo', 'San Luis'
+'Elque', 'Notrabaja', 'Punilla'
+}
+
+Trabaja = {
+nombre_empleado, nombre_empresa, sueldo
+'Daniel', 'Banco Suris', 50000
+'Geronimo', 'Banco Galicia', 60000
+'Lucas', 'Banco Superbin', 50000
+'Santiago', 'Banco Galicia', 70000
+'Nicolas', 'Banco Superbin', 50000
+'Facundo', 'Banco Suris', 60000
+'Hernesto', 'Banco Superbin', 70000
+'Julio', 'Banco Galicia', 80000
+'Luis', 'Banco Suris', 50000
+'Mateo', 'Banco Superbin', 120000
+'Fabricio', 'Banco Superbin', 180000
+'Eugenia', 'Banco Suris', 168000
+'Julieta', 'Banco Superbin', 60000
+'Celeste', 'Banco Galicia', 50000
+'Daniela', 'Banco Suris', 70000
+'Liliana', 'Banco Galicia', 80000
+'Alberto', 'Banco Suris', 170000
+'Eduardo', 'Banco Suris', 60000
+'Ana', 'Banco Nacion', 70000
+'Pedro', 'Banco Nacion', 50000
+}
+
+Empresa = {
+nombre_empresa, ciudad
+'Banco Suris', 'San Luis'
+'Banco Superbin', 'La Punta'
+'Banco Galicia', 'Villas Mercedes'
+'Banco Nacion', 'Villas Mercedes'
+}
+
+Jefe = {
+nombre_empleado, nombre_jefe
+'Geronimo', 'Liliana'
+'Santiago', 'Liliana'
+'Julio', 'Liliana'
+'Celeste', 'Liliana'
+'Daniel', 'Alberto'
+'Facundo', 'Alberto'
+'Luis', 'Alberto'
+'Eugenia', 'Alberto'
+'Daniela', 'Alberto'
+'Eduardo', 'Alberto'
+'Lucas', 'Fabricio'
+'Nicolas', 'Fabricio'
+'Hernesto', 'Fabricio'
+'Mateo', 'Fabricio'
+'Julieta', 'Fabricio'
+'Pedro', 'Ana'
+}
