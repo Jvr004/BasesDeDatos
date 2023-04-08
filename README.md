@@ -1,4 +1,4 @@
-# basesDeDatos
+# Bases De Datos
 Módulo 1: Modelo de Entidad Relación - Módulo 2: Modelo Relacional
 
 Mataria de la Universidad. 
